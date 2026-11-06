@@ -1,0 +1,1 @@
+{"v": 1, "ts": 0, "note": "حزمة مشاركة قنوات WATCH iT — تُنشر مرة واحدة بعد أول ربط ناجح من xt7.vercel.app/channels?wiadmin=1 — الحقول: channels (سورس مثبت لكل قناة) + auth (توكن الحساب وBCOV-Auth JWT) + videos (ref->videoId)", "channels": {}, "auth": {}, "videos": {}}
